@@ -13,3 +13,6 @@ test/**/out
 
 # vim swapped file
 *.sw*
+
+# other
+.DS_Store
